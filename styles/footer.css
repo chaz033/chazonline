@@ -1,0 +1,28 @@
+div#foot {
+     width: 20%;
+     margin: 1em 1em 0;
+     flex: 1 0;
+}
+div#foot-sign {
+     width: 20%;
+     margin: 0 0 0.5em;
+     flex: 2 0 100%;
+     text-align: center;
+}
+
+
+span.searchbar {
+     width: auto;
+     margin: 0.3em auto 0;
+     display: flex;
+     justify-content: center;
+}
+input.searchbar {
+     width: 22em;
+     height: 2em;
+     margin: 0;
+}
+button.searchbar-btn {
+     width: 7em;
+     height: 2em;
+}

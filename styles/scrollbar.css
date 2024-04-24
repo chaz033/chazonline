@@ -1,0 +1,19 @@
+/* ===== Scrollbar CSS ===== */
+/* width */
+::-webkit-scrollbar {
+  width: 0.8em;
+  background : transparent;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #818181;
+  border-radius: 1em;
+  width : 8px;
+}

@@ -1,0 +1,19 @@
+List of Important Tasks
+
+
+Num         |    Date Listed    |    Date Completed         |    Task
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1              |    23/04/2024     |                                       |    Test the header.php logged in message when log in system is completed.
+2              |    23/04/2024     |                                       |    Test searchbar on page footer and make sure it redirects to an "index.php" page with results
+3              |    24/04/2024     |                                       |    Added a darkmode/lightmode toggle button
+4              |    24/04/2024     |                                       |    Add an update log in the home page sidebar with scrollable actions
+5              |    24/04/2024     |                                       |    Figure out what to "post" and how to have it layed out
+6              |    24/04/2024     |                                       |    Add a posting system on the main page for the Admin account
+7              |    24/04/2024     |                                       |    Are profile pages important and what should they show/list on them for this website
+8              |    24/04/2024     |                                       |    Build the registration and login system and hook in a database
+9              |    24/04/2024     |                                       |    Build and configure a database and what sort of information should be stored
+10            |    24/04/2024     |                                       |    Website security protocols and certificates
+11            |    24/04/2024     |                                       |    User credential protection
+12            |    24/04/2024     |                                       |    Password requirements
+
+
